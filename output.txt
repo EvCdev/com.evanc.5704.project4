@@ -1,0 +1,6 @@
+# Nmap 7.60 scan initiated Thu Nov 02 01:49:39 2017 as: nmap -oN C:\dump\output.txt violet.cirt.vt.edu
+Nmap scan report for violet.cirt.vt.edu (128.173.54.101)
+Host is up (0.036s latency).
+All 1000 scanned ports on violet.cirt.vt.edu (128.173.54.101) are filtered
+
+# Nmap done at Thu Nov 02 01:49:47 2017 -- 1 IP address (1 host up) scanned in 7.37 seconds
